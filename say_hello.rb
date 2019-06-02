@@ -2,4 +2,4 @@ say_hello(name)
 puts "Hello #{name}"
 end
 
-say_hello
+puts say_hello
